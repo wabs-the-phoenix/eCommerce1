@@ -1,0 +1,10 @@
+{
+    "name": "wabs/application-ecom",
+    "authors": [
+        {
+            "name": "Samuel Wabwana",
+            "email": "samuelwabwana@gmail.com"
+        }
+    ],
+    "require": {}
+}
